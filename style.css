@@ -4,3 +4,23 @@
 #jumboShrimp{
     text-align: center;
 }
+.vgChar_pictures{
+    float: left;
+    margin: 13px;
+    background-color: rgb(235, 84, 87)
+}
+#searchBar{
+    margin: 25px;
+}
+#clickButton{
+    margin: 15px;
+}
+#mainCont{
+    background-color: rgb(208, 94, 162);
+}
+html{
+    background-color: rgb(208, 94, 162);
+}
+.container{
+    background-color: blue;
+}
